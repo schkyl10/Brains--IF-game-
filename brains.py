@@ -1,4 +1,5 @@
 #brains.py
+#Kyle Schaefer
 #Zack Raver
 #Start Date: 11/26/13
 import sys
